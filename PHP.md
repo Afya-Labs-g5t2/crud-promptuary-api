@@ -18,3 +18,4 @@ guia para backend: https://dev.to/glaucia86/guia-para-pessoas-desenvolvedoras-ba
 o que terminou de me convencer para mudar pro php: https://codificar.com.br/php-vs-nodejs-comparativo-das-linguagens-de-desenvolvimento-back-end/
 
 
+https://www.youtube.com/channel/UCDoFiMhpOnLFq1uG4RL4xag/playlists
