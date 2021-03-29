@@ -8,6 +8,10 @@ linguagem, preciso procurar algum empresa especifica que promete suporte (e ás 
 contratar o serviço de VPS que é mais caro e preciso desenvolver tudo do zero. Apesar do VPS parecer a opção
 mais inteligente, não acho que compensa começar por essa.
 
+https://www.linkedin.com/pulse/laravel-e-vuejs-front-end-eduardo-silva?articleId=6665297363126497280
+
+https://www.linkedin.com/pulse/laravel-e-vuejs-back-end-eduardo-silva/
+
 Acho que a melhor estratégia é começar com os serviços mais baratos, e criar diversos sites com adsense e 
 outras formas de monetizar, como cursos e e-comenrce. inclusive, deixar esse link abaixo para não esquecer:
 (https://kinsta.com/pt/blog/como-monetizar-blog/)
