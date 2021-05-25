@@ -1,5 +1,5 @@
 module.exports = {
-    dialect: process.env.DB,
+    dialect: 'postgres',
     dialectOptions: {
         ssl: {              //primeiro erro - ssl:true
           require: true,            //segundo erro
