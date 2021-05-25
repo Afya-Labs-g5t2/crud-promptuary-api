@@ -1,5 +1,5 @@
 module.exports = {
-    dialect: 'postgres',
+    dialect: process.env.DB,
     dialectOptions: {
         ssl: {              //primeiro erro - ssl:true
           require: true,            //segundo erro
@@ -7,10 +7,10 @@ module.exports = {
         }, 
       keepAlive: true,        
     },  
-    host: 'ec2-34-200-94-86.compute-1.amazonaws.com',
-    username: 'cpddrelfqacsvy',
-    password: 'd2f158a9f89a9e8dc1d561378eba810466fd0caa580c0bbe72dabbed0d9dd658',
-    database: 'de8buui8obn1n5',
+    host: process.env.HOST,
+    username: process.env.USER,
+    password:  process.env.PASS,
+    database: process.env.DATABASE,
     //port: '5432',
     define: {
         timestamps: true,  //
