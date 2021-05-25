@@ -1,5 +1,7 @@
 # CRUD API
 
+https://semver.org/ - explicando como funciona a semantica de versão
+
 sites de apoio
 
 
