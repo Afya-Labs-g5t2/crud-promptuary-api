@@ -1,4 +1,4 @@
-# projetoBackend
+# CRUD API
 
 sites de apoio
 
@@ -18,6 +18,14 @@ o básico de heroku - https://adamatti.github.io/blog/git/2017/06/04/heroku.html
 
 site simples no heroku - https://share.atelie.software/subindo-um-site-simples-para-o-heroku-7450592106c8
 
+
+videos:
+
+https://www.youtube.com/watch?v=HyctLjnzUOM
+
+https://www.youtube.com/watch?v=dusvP0CFisw
+
+https://www.youtube.com/watch?v=Qv8su6rcimY
 
 adonisjs https://docs.adonisjs.com/guides/database/introduction 10k stars no github
 
