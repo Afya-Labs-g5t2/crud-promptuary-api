@@ -30,3 +30,5 @@ https://www.youtube.com/watch?v=Qv8su6rcimY
 adonisjs https://docs.adonisjs.com/guides/database/introduction 10k stars no github
 
 sequelize https://sequelize.org/ 24k stars no github
+
+utilizando python: https://codigosimples.net/2017/05/15/criando-uma-api-de-filmes-em-cartaz-usando-python-e-heroku/
